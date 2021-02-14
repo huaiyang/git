@@ -1,5 +1,10 @@
 ttwafrasdfas;lkjgas
 aswqerasdgawert5
 afgsdadrtfqwertdfghsdfrg
-#inlcude <adstfaetr.io>
+#inlcude <adstfaetr.iousdfasrq
+asdfasdf
+rl = https:huaiyang:t0915ty@github.com/huaiyang/git.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin>
 adsfasfwr
